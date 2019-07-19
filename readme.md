@@ -1,0 +1,3 @@
+运行userPlay.py开始游戏
+
+开启分数显示可能会影响成功率,可在wrapped_flappy_bird.py 注释144行
